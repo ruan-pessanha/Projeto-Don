@@ -1,0 +1,28 @@
+/* Estilos personalizados para o Don Ruan Style */
+
+/* Estilo da seção de herói */
+.hero-section {
+  background: #f8f9fa; /* Cor de fundo clara */
+  padding: 60px 0; /* Padding superior e inferior */
+}
+
+.hero-section h1 {
+  font-size: 3rem; /* Tamanho da fonte do título */
+  color: #333; /* Cor do texto */
+}
+
+.hero-section p {
+  font-size: 1.25rem; /* Tamanho da fonte do parágrafo */
+  color: #666; /* Cor do texto */
+}
+
+/* Estilo da seção sobre e contato */
+.container h2 {
+  margin-top: 40px; /* Margem superior para os títulos */
+  color: #333; /* Cor do texto */
+}
+
+.container p {
+  font-size: 1rem; /* Tamanho da fonte do parágrafo */
+  color: #555; /* Cor do texto */
+}
